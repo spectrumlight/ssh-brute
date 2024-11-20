@@ -1,5 +1,5 @@
 # ssh-brute
-Bruteforce large number of SSH hosts
+Bruteforce large number of SSH hosts. Successful connections will be output to `success.txt`
 ## Usage
 `python3 sshbrute.py hosts.txt username.txt password.txt port`
 ## Example
